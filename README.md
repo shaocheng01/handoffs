@@ -1,6 +1,6 @@
 # handoffs
 
-Claude Code/Codex 任务交接 skill —— 跨会话 / 跨窗口存档与恢复任务进度，基于 [agentskills.io](https://agentskills.io) 开放标准。
+Claude Code/Codex 任务交接 skill —— 跨会话 / 跨窗口存档与恢复任务进度，预防上下文撑爆导致任务无法衔接问题。基于 [agentskills.io](https://agentskills.io) 开放标准。
 
 ## 包含
 
