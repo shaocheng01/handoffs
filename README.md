@@ -20,6 +20,10 @@ cp -r zhengsc-save zhengsc-receive ~/.claude/skills/
 - `/zhengsc-save` —— 存档当前任务（也可说「归档」「存档」「写交接」）
 - `/zhengsc-receive` —— 恢复任务（也可说「继续」「衔接」「接续」）
 
+例
+- `/zhengsc-save`
+- `/zhengsc-receive .handoffs\2026-06-24\handoff-colorful-page-redesign.md`
+
 归档按 `.handoffs/<YYYY-MM-DD>/handoff-<任务名>.md` 组织，衔接时递归扫描取最新。
 
 ## 跨平台
